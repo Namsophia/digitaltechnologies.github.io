@@ -1,4 +1,4 @@
-# digitaltechnologies
+# Digital Technologies
 The Technological Approaches to Health Care Systems
 1. INTRODUCTION
 Digital technologies are the use of different electronic devices that store and process health data such as mobile phones, smart watches, internet, computing platforms, and sensors for health care uses. Moreover, the use of electronic information and telecommunication technologies to support long-distance clinical health care, patient health related problems, and public health (Shaffer et al., 2023).
